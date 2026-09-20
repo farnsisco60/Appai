@@ -1,0 +1,5 @@
+// Placeholder for U2-Net TensorFlow Lite model file (u2net.tflite / u2netp.tflite)
+// Ghost Studio will automatically detect if a valid TFLite model binary is placed here.
+// When replaced with a full-size u2net.tflite model (e.g. U2-Net or RMBG-1.4 quantized),
+// the neural engine will execute inference directly via TensorFlow Lite Interpreter.
+// Otherwise, it seamlessly runs Google ML Kit Offline Segmentation!

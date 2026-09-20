@@ -1,0 +1,7 @@
+{
+  "name": "Ghost Studio",
+  "description": "Professional e-commerce invisible mannequin photo studio with offline AI background removal, 3D hollow collar effect, and studio shadows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
